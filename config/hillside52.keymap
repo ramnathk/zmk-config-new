@@ -23,7 +23,6 @@
 #define Paste  LC(V)
 #define Redo   LC(Y)
 
-
 / {
         keymap {
                 compatible = "zmk,keymap";
